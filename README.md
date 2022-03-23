@@ -25,4 +25,8 @@ Google font: https://fonts.google.com/
 
 Boxicons: https://boxicons.com/
 
+PREVIEW:
+
+![image](https://user-images.githubusercontent.com/59489591/159744475-e3ad9b9b-d0f6-4053-9f0c-b2277076a324.png)
+
 
